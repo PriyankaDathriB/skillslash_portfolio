@@ -51,7 +51,7 @@ function TopMenuBar() {
   return (
     <CustomAppBar position="sticky">
       <CustomToolbar>
-        <img src="/images/logo.png" />
+        <img src="logo.png" alt="description" />
         <div
           style={{
             flexGrow: 1,
